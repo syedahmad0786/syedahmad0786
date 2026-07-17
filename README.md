@@ -1,16 +1,60 @@
-## Hi there 👋
+<p align="center">
+  <img src="./ahmad-card.svg" alt="Ahmad Bukhari — AI &amp; Automation Architect" width="820"/>
+</p>
 
-<!--
-**syedahmad0786/syedahmad0786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Ahmad Bukhari</h1>
 
-Here are some ideas to get you started:
+<p align="center"><b>AI &amp; Automation Architect</b> — agentic systems that run real businesses, not just demos.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Claude_Agent_SDK-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Agent SDK"/>
+  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-1f6feb?style=for-the-badge" alt="MCP"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+</p>
+
+---
+
+### The journey
+
+Not the traditional path — the honest one:
+
+<p align="center"><b><code>no-code → low-code → vibe-coding → code</code></b></p>
+
+I started with no-code tools and kept hitting their ceilings. Low-code bought me range. AI-assisted building made me fast. But the systems I wanted to ship demanded proper code — so I learned to write it. Now I use every layer deliberately: I know when a drag-and-drop workflow is enough, and when it's time to open the editor.
+
+### What I build
+
+- **AI agents** — Claude Agent SDK, Claude Code, MCP servers, custom skills
+- **Automation pipelines** — n8n, Make, Lindy, event-driven workflows that document themselves
+- **Integrations & tools** — REST APIs, webhooks, CRMs, chatbots, voice AI, internal dashboards
+
+Everything I ship starts with the same question: *what breaks at 2 a.m., and how do we make sure it never does?*
+
+### The numbers
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=syedahmad0786&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedahmad0786&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=syedahmad0786&theme=github-dark-blue&hide_border=true&background=0d1117" alt="Contribution streak"/>
+</p>
+
+### The snake eats my commits
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syedahmad0786/syedahmad0786/output/github-snake-dark.svg"/>
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/syedahmad0786/syedahmad0786/output/github-snake.svg"/>
+  </picture>
+</p>
+
+---
+
+<p align="center"><b>Open to client work</b> · ahmadbukhari4245@gmail.com</p>
