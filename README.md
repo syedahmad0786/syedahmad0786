@@ -38,8 +38,7 @@ Everything I ship starts with the same question: *what breaks at 2 a.m., and how
 ### The numbers
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=syedahmad0786&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedahmad0786&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedahmad0786&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=7ee787&point=ffa657&area=true&area_color=1f6feb" alt="Contribution activity graph"/>
 </p>
 
 <p align="center">
