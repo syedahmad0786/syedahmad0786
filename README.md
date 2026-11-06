@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./ahmad-card.svg" alt="Ahmad Bukhari — AI &amp; Automation Architect" width="820"/>
+  <img src="./ahmad-card.svg" alt="Ahmad Bukhari | AI GTM Engineer" width="820"/>
 </p>
 
 <h1 align="center">Ahmad Bukhari</h1>
