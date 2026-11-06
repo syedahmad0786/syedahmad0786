@@ -4,7 +4,7 @@
 
 <h1 align="center">Ahmad Bukhari</h1>
 
-<p align="center"><b>AI &amp; Automation Architect</b> — agentic systems that run real businesses, not just demos.</p>
+<p align="center"><b>AI GTM Engineer</b>. I build AI automation that gets companies recommended in AI answers and turns interest into booked calls, with custom AI tools I code myself.</p>
 
 <p align="center">
   <a href="https://ahmadbukhari.com">Portfolio</a> · <a href="https://www.linkedin.com/in/bukhariahmad">LinkedIn</a> · <a href="https://cursor.com/@ahmadbukhari">Cursor</a> · <a href="mailto:ahmadbukhari4245@gmail.com">Email</a>
